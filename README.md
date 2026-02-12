@@ -1,3 +1,5 @@
-# Burger-King-Kiosk-HU
-Burgerking kiosk 
-![Switch tartókeret kiszerelése](/img/kep1.jpg)
+
+## Válassz verziót
+
+- 👉 [Összeszerelési útmutató – V1.0](BK_KIOSK_V1_0.md)
+- 👉 [Telepítési útmutató – V1.1](BK_KIOSK_V1_1)
