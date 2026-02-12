@@ -32,7 +32,7 @@
 2.  A kereten a felső csavart csavard ki, az alsót lazítsd meg, majd
     fordítsd el a pántot.
 
-    ![Switch pánt elfordítása](images/switch_02.jpg)
+    ![Switch pánt elfordítása](./img/switch_02.jpg)
 
 3.  Tedd be a switchet a keretbe, húzd meg a csavarokat, majd a keretet
     szereld vissza a KIOSK-ba.
