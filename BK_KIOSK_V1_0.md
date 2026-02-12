@@ -45,8 +45,6 @@
 
 5.  Csatlakoztasd az UTP kábeleket a switch portjaiba.
 
-    ![UTP kábelek csatlakoztatása](./img/switch_05.jpg)
-
 ---
 
 ## Szünetmentes tápegység beszerelése
