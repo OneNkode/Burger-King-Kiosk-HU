@@ -5,7 +5,12 @@
 **Karbantartó:** Bit-Soft Kft.
 
 ---
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
+
+<!-- TOC end -->
+
+<!-- TOC --><a name="tartalomjegyzék"></a>
 ##  Tartalomjegyzék
 
 - [Switch beszerelése](#switch-beszerelése)
@@ -19,7 +24,6 @@
 - [Nyomtató összeszerelése](#nyomtató-összeszerelése)
 - [Szoftvertelepítés](#szoftvertelepítés)
 - [PC boot probléma elhárítása](#pc-boot-probléma-elhárítása)
-
 ---
 
 ## Switch beszerelése
