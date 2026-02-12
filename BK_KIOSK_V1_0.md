@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 Tartalomjegyzék
+##  Tartalomjegyzék
 
 - [Switch beszerelése](#switch-beszerelése)
 - [Szünetmentes tápegység
